@@ -134,11 +134,11 @@ for target in targets:
 ```
 
 ## Output:
-<img width="1664" height="179" alt="Screenshot 2026-03-17 083352" src="https://github.com/user-attachments/assets/12caf218-2a76-4fa6-8e5a-77d6a68f505a" />
-<img width="1676" height="624" alt="Screenshot 2026-03-17 083413" src="https://github.com/user-attachments/assets/bf374143-3c82-4e16-8341-1488bb27<img width="1708" height="617" alt="Screenshot 2026-03-17 083435" src="https://github.com/user-attachments/assets/ef1b4fc9-b702-4cdd-a76d-34dbfeb90483" />
-57b1" />
-<img width="1683" height="620" alt="Screenshot 2026-03-17 083452" src="https://github.com/user-attachments/assets/f0340c29-a7f8-4602-851c-4b4f1dc20587" />
-<img width="688" height="169" alt="Screenshot 2026-03-17 083504" src="https://github.com/user-attachments/assets/2bfad5c0-4b33-47d8-95d1-c002a71e3ec2" />
+<img width="1664" height="179" alt="Screenshot 2026-03-17 083352" src="https://github.com/user-attachments/assets/508587a6-9a11-4e3c-86c2-3e74bdae8185" />
+<img width="1676" height="624" alt="Screenshot 2026-03-17 083413" src="https://github.com/user-attachments/assets/b5ef4590-92df-431a-9f02-9e30e062ef3c" />
+<img width="1708" height="617" alt="Screenshot 2026-03-17 083435" src="https://github.com/user-attachments/assets/ef0a63c8-6ed2-487c-b993-02bd39cffbcd" />
+<img width="1683" height="620" alt="Screenshot 2026-03-17 083452" src="https://github.com/user-attachments/assets/ca7cf196-ee8d-45cd-894d-d33254f5d026" />
+<img width="688" height="169" alt="Screenshot 2026-03-17 083504" src="https://github.com/user-attachments/assets/2466ee70-39d2-4f87-bc7d-03e731747989" />
 
 
 
